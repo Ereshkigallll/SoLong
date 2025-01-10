@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_StartScene.unity
+    guid: d6ac0caccc1e08544ab69173cddb7cf7
+  - enabled: 1
+    path: Assets/Scenes/1_FindVoyager.unity
+    guid: c3ef37557cd05f04d94acbb0c8a75035
+  - enabled: 1
+    path: Assets/Scenes/1_InBetweenScene1_2.unity
+    guid: 3f317ed577cb6f84eaccd8addb07db61
+  - enabled: 1
+    path: Assets/Scenes/2_SolarSystemAnimation.unity
+    guid: 2106cc92dba525449a5ecc159dac06ee
+  - enabled: 1
+    path: Assets/Scenes/3_GoBackSpaceship.unity
+    guid: 2d81029626b5cd448895c8f44aaae96c
+  - enabled: 1
+    path: Assets/Scenes/3_InBetweenScene3_4.unity
+    guid: c7e7f9ef640c9e24ea929ddc313b46f2
+  - enabled: 1
+    path: Assets/Scenes/4_ThrowBottle.unity
+    guid: 794b6654625438d40920b760ac55da6a
+  - enabled: 1
+    path: Assets/Scenes/5_ParticlesInsideSpaceship.unity
+    guid: 4b8313887dd59074a8c73bd55d43ab39
+  - enabled: 1
+    path: Assets/Scenes/6_TouchBubbles.unity
+    guid: 32f019ebf3ccaab48bcc19daebde7350
+  - enabled: 1
+    path: Assets/Scenes/7_BlowBubbleInteraction.unity
+    guid: f681de6abe705bd47b4e4946ffcca43e
+  - enabled: 1
+    path: Assets/Scenes/8_LetItGo.unity
+    guid: ca4d3182be581d14aa1b4cc25a2636cd
+  - enabled: 1
+    path: Assets/Scenes/9_Credits.unity
+    guid: 0ffabbdf45c2cd64a9b7a26166363f66
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a78aa8745cc6cdf4c8b6a7cb446d1359,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d8a3ae9e21dafa34ea2803672333f209,
+      type: 2}
